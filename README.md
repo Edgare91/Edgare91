@@ -16,9 +16,10 @@ I am currently pursuing my studies with the goal of obtaining a **Bachelor of Sc
   - **System Management:** Linux/Unix (command line), VIM (learning)
 
 ### 📚 Projects & Goals  
-- Building interactive websites with dynamic backend functionality  
+- Building interactive websites
 - Exploring data analytics projects using SQL and scripting  
-- Managing system resources through Linux commands  
+- Managing system resources through Linux commands
+  
 - **Long-Term Goal:** Working in healthcare analytics to improve patient care and operational efficiency through data solutions.  
 
 ### 🔍 How to reach me  
