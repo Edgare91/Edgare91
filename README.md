@@ -9,11 +9,11 @@ I am currently pursuing my studies with the goal of obtaining a **Bachelor of Sc
 - **System Administration:** Working with Linux/Unix through terminal commands  
 
 ### 🚀 Technical Skills  
-- **Languages:** Python, Java, C, C++, PHP, JavaScript (learning)  
+- **Languages:** Python, Java, C, C++, PHP, JavaScript (learning), React (learning)
 - **Databases:** SQL  
 - **Tools & Platforms:**  
   - **Development:** Visual Studio Code, MAMP  
-  - **System Management:** Linux/Unix (command line)  
+  - **System Management:** Linux/Unix (command line), VIM (learning)
 
 ### 📚 Projects & Goals  
 - Building interactive websites with dynamic backend functionality  
