@@ -26,3 +26,4 @@ I am currently pursuing my studies to obtain a **Bachelor of Science in Informat
 ### 🔍 How to reach me  
 - **LinkedIn:** https://www.linkedin.com/in/edgar-nunez-b23934125/
 - **Portfolio:** Coming Soon  
+
