@@ -6,7 +6,7 @@ I am currently pursuing my studies to obtain a **Bachelor of Science in Informat
 ### 🎯 Current Focus  
 - **Learning:** PHP, JavaScript, React, Node, HTML, CSS
 - **Database Management:** SQL for data storage and querying  
-- **System Administration:** Red Hat System Administration I 9.3, VIM
+- **System Administration:** Red Hat System Administration I 9.5, VIM
 
 ### 🚀 Technical Skills  
 - **Languages:** Python, Java, C, C++
